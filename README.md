@@ -109,21 +109,6 @@ See './generations/master_results_table_final.csv' for full table of final resul
 - According to [this paper](https://arxiv.org/pdf/1703.07076.pdf) the baseline model may be further improved by training on a universe of enumerated smiles, not just canonical smiles
 - Code needs refactoring
 
-## About Me (Matt O'Connor)
-
-I am a data science and strategy coach who guides businesses through the delivery of real world projects to 10x their internal data & AI capabilities while delivering immediate value.
-
-I coach:
-
-- Executives: on data & AI strategy, leadership, organizational transformation, and culture
-- Business Teams: on data team structures, solution design, and project management
-- Tech Teams: on data/ML/AI architecture, deployment, infrastructure, and tools
-
-My experience includes having served as lead data scientist of algorithmic trading for Ray Dalio’s \$160bn hedge fund Bridgewater Associates, raising VC funding at 7-figure valuations, and coaching some of the world's largest multinationals in the supply chain, retail, banking & insurance, and real estate industries on data transformations.
-
-It my sincere hope my work helps us collectively advance the fight against coronavirus. If you reuse or republish my findings or work, please attribute me: "Matt O'Connor, Founder of https://Reboot.ai"
-
-My github is almost exclusively contractually private projects, but to get in touch please visit [Reboot AI](https://www.reboot.ai/) or connect with me on [LinkedIn](https://www.linkedin.com/in/mattroconnor/).
 
 ## Other Helpful Links (arbitary order)
 
