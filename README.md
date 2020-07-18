@@ -1,4 +1,4 @@
-# Deep Learning Coronavirus Cure
+# Coronavirus Cure using Deep Learning
 
 This is an original submission to the Coronavirus Deep Learning Competition hosted by [Sage Health](https://www.sage-health.org/). The goal is to create a novel small molecule which can bind with the coronavirus, using deep learning techniques for molecule generation and [PyRx](https://pyrx.sourceforge.io/home) to evaluate binding affinities.
 
