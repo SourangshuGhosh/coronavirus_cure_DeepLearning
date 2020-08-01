@@ -18,6 +18,14 @@ My thanks to Topazape, PyRx, and Sage Health for making this exciting work possi
 
 Requirements are identical to the original Topazape repo.
 
+## Licensing:
+
+The code is distributed under the MIT License
+
+## Author:
+
+Sourangshu Ghosh
+
 ## Changes to Original Files
 
 - Added a timeout feature in the cleanup_smiles.py script as in some cases of invalid smiles script would just hang
